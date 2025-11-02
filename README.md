@@ -2,7 +2,7 @@
 
 GIPHY API IS USED FOR THIS PROJECT. (Used to load and display GIFs on the page.)
 
-Soccer-related gifts are loaded. Users can search for any keyword.
+Soccer-related gifts will be loading. Users can search for any keyword.
 
 ## How It Works
 1. Open `index.html` in a browser.
