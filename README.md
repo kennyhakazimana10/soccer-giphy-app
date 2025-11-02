@@ -1,6 +1,7 @@
 # Soccer Giphy Fetch
 
-GIPHY API IS USED FOR THIS PROJECT.(Used to load and display GIFs on the page.)
+GIPHY API IS USED FOR THIS PROJECT. (Used to load and display GIFs on the page.)
+
 Soccer-related gifts are loaded. Users can search for any keyword.
 
 ## How It Works
