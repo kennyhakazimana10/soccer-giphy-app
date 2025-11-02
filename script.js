@@ -4,7 +4,7 @@
 console.log("script.js connected");
 
 // API setup
-const apiKey = "YOUR_API_KEY_HERE";
+const apiKey = "YG6tZFaXyFS266X3yWueK5R4Nvm63GHj";
 const button = document.querySelector("#fetch-btn");
 const container = document.querySelector("#gif-container");
 const searchInput = document.querySelector("#search-input");
