@@ -8,3 +8,10 @@ body {
   transition: transform 0.2s ease;
 }
 
+#gif-container img:hover {
+  transform: scale(1.05);
+}
+
+#search-input {
+  max-width: 400px;
+}  
