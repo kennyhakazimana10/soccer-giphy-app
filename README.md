@@ -18,6 +18,5 @@ Soccer-related gifts will be loading. Users can search for any keyword.
 
 ## API Key
 A free key from [Giphy Developers](https://developers.giphy.com/) is needed.
-Replace the placeholder in `script.js` with the key:
 ```js
 const apiKey = "YG6tZFaXyFS266X3yWueK5R4Nvm63GHj";
