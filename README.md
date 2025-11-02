@@ -1,7 +1,7 @@
 # Soccer Giphy Fetch
 
-This project uses the Giphy API to load and display GIFs on the page.  
-By default, it loads soccer-related gifs, and users can also search for any keyword.
+GIPHY API IS USED FOR THIS PROJECT.(Used to load and display GIFs on the page.)
+Soccer-related gifts are loaded. Users can search for any keyword.
 
 ## How It Works
 1. Open `index.html` in a browser.
@@ -17,6 +17,6 @@ By default, it loads soccer-related gifs, and users can also search for any keyw
 
 ## API Key
 A free key from [Giphy Developers](https://developers.giphy.com/) is needed.
-Replace the placeholder in `script.js` with your key:
+Replace the placeholder in `script.js` with the key:
 ```js
 const apiKey = "YOUR_API_KEY_HERE";
